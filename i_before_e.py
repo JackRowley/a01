@@ -41,4 +41,7 @@ def run_tests():
 
 # Edit this code
 def spell_check(word):
+    
+    if word e > i:
+        print(false)
 
